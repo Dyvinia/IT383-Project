@@ -24,3 +24,5 @@ Generic mod developer
 A basic bedroom with a gaming pc setup in the corner. The room is also on fire.
 
 ## Diagrams
+### Primary Loop
+<img width="609" height="681" alt="image" src="https://github.com/user-attachments/assets/1cd937c9-91da-4829-9811-f40c1b81ca8f" />
